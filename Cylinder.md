@@ -20,7 +20,7 @@ The input parameters, simulation environment and results are defined below:
 
 -   **Lattice size:** Each cylinder shaped meta-atom is placed in a square
     shaped lattice. Side lengths of lattices can be derived with: 
-    $$ L = gap + radius*2 $$
+    $$L=gap+radius*2$$
 
 -   **Substrate:** Each cylinder shaped meta-atom is placed on a 2µm thick
     lossless substrate with a refractive index of 1.4.
