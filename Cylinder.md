@@ -3,7 +3,7 @@
 
 The input parameters, simulation environment and results are defined below:
 
--   **Permittivity: **The meta-atoms are constructed with lossless materials
+-   **Permittivity:**The meta-atoms are constructed with lossless materials
     with permittivities ranging from 12 to 25. The permittivity for each
     meta-atom is listed in the **1st** column in “parameter” matrix.
 
@@ -11,7 +11,7 @@ The input parameters, simulation environment and results are defined below:
     gaps range from 0.1 µm to 1.55 µm in this dataset. Listed in the **2nd**
     column in “parameter” matrix.
 
--   **Thickness: **Thicknesses of the cylinders in the z-direction, given in µm.
+-   **Thickness:**Thicknesses of the cylinders in the z-direction, given in µm.
     The thicknesses range from 0.5 µm to 1.55 µm in this dataset. Listed in the
     **3rd** column in “parameter” matrix.
 
