@@ -40,4 +40,4 @@ $$
 -   **Result:** Real parts and imaginary parts of the transmission spectra of
     each meta-atom are included in the “real” and “imag” matrix, respectively.
     
-    ![image](https://garfieldass/Meta-atoms-data-sharing/pics/cylinder.jpg)
+    ![image](https://github.com/garfieldass/Meta-atoms-data-sharing/blob/master/pics/cylinder.jpg)
