@@ -29,13 +29,13 @@ $$
 -   **Substrate:** Each cylinder shaped meta-atom is placed on a 2µm thick
     lossless substrate with a refractive index of 1.4.
 
--   **Polarization: **Linear-polarized incidence with the polarization direction
+-   **Polarization:** Linear-polarized incidence with the polarization direction
     indicated in the figure below.
 
 -   **Frequency:** 30 to 60 THz, with a frequency spacing of 0.1THz. 301
     frequency points in total.
 
--   **Simulation tool: **All data are derived with the frequency domain solver
+-   **Simulation tool:** All data are derived with the frequency domain solver
     in commercial simulation package CST MICROWAVE STUDIO.
 
 -   **Result:** Real parts and imaginary parts of the transmission spectra of
