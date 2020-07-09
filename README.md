@@ -42,9 +42,6 @@ The input parameters, simulation environment and results are defined below:
     
     
 &nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
 # “H” shaped meta-atoms
 
 The input parameters, simulation environment and results are defined below:
@@ -83,7 +80,7 @@ The input parameters, simulation environment and results are defined below:
 
 
 
-
+&nbsp;
 # Free-form meta-atoms
 
 The input parameters, simulation environment and results are defined below:
