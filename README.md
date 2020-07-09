@@ -37,7 +37,7 @@ The input parameters, simulation environment and results are defined below:
 -   **Result:** Real parts and imaginary parts of the transmission spectra of
     each meta-atom are included in the “real” and “imag” matrix, respectively.
     
-    ![image](https://github.com/garfieldass/Meta-atoms-data-sharing/blob/master/pics/cylinder.jpg)
+    ![image](https://github.com/SensongAn/Meta-atoms-data-sharing/blob/master/pics/cylinder.jpg)
     
     
     
@@ -76,7 +76,7 @@ The input parameters, simulation environment and results are defined below:
 -   **Result:** Real parts and imaginary parts of the transmission spectra of
     each meta-atom are included in the “real” and “imag” matrix, respectively.
     
-![image](https://github.com/garfieldass/Meta-atoms-data-sharing/blob/master/pics/H.jpg)
+![image](https://github.com/SensongAn/Meta-atoms-data-sharing/blob/master/pics/H.jpg)
 
 
 
@@ -117,4 +117,4 @@ The input parameters, simulation environment and results are defined below:
 -   **Result:** Real parts and imaginary parts of the transmission spectra of
     each meta-atom are included in the “real” and “imag” matrix, respectively.
 
-![image](https://github.com/garfieldass/Meta-atoms-data-sharing/blob/master/pics/freeform.jpg)
+![image](https://github.com/SensongAn/Meta-atoms-data-sharing/blob/master/pics/freeform.jpg)
