@@ -1,4 +1,4 @@
-# Meta-atoms-data-sharing
+# Meta atoms data sharing
 **Cylinder shaped meta-atoms**
 
 The input parameters, simulation environment and results are defined below:
