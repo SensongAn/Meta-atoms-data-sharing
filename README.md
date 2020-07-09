@@ -1,6 +1,7 @@
 # Cylinder shaped meta-atoms
 
-The input parameters, simulation environment and results are defined below:
+The input parameters, simulation environment and results are defined below:  
+Please cite to our paper (https://pubs.acs.org/doi/abs/10.1021/acsphotonics.9b00966) if you are using this dataset.
 
 -   **Permittivity:** The meta-atoms are constructed with lossless materials
     with permittivities ranging from 12 to 25. The permittivity for each
@@ -44,7 +45,8 @@ The input parameters, simulation environment and results are defined below:
 &nbsp;
 # “H” shaped meta-atoms
 
-The input parameters, simulation environment and results are defined below:
+The input parameters, simulation environment and results are defined below:  
+Please cite to our paper (https://pubs.acs.org/doi/abs/10.1021/acsphotonics.9b00966) if you are using this dataset.
 
 -   **Lattice size:** Each H shaped meta-atom is placed in a square shaped
     lattice. Side lengths of lattices are fixed to be 3 µm.
@@ -83,7 +85,8 @@ The input parameters, simulation environment and results are defined below:
 &nbsp;
 # Free-form meta-atoms
 
-The input parameters, simulation environment and results are defined below:
+The input parameters, simulation environment and results are defined below:  
+Please cite to our paper (https://arxiv.org/abs/2001.00121) if you are using this dataset.
 
 -   **Lattice size:** Each free-form meta-atom is placed in a square shaped
     lattice. Side length of each lattice ranges from 2.5 µm to 3 µm. Listed in
