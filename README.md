@@ -61,7 +61,7 @@ Please cite to our paper (https://pubs.acs.org/doi/abs/10.1021/acsphotonics.9b00
 
 -   **Meta-atom dimensions**: Four parameters, Lx, Lx1, Ly, and Ly1 are used to
     sketch an H-shaped meta-atom. These parameters (in current order) are listed
-    in the 4th – 7th columns in “parameter” matrix, respectively.
+    in the **4th – 7th** columns in “parameter” matrix, respectively.
 
 -   **Substrate:** Each H shaped meta-atom is placed on a 2µm thick lossless
     substrate with a refractive index of 1.4.
