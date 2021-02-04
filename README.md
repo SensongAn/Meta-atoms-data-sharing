@@ -86,7 +86,7 @@ Please cite our paper (https://pubs.acs.org/doi/abs/10.1021/acsphotonics.9b00966
 # Free-form meta-atoms
 
 The input parameters, simulation environment and results are defined below:  
-Please cite our paper (https://arxiv.org/abs/2001.00121) if you are using this dataset.
+Please cite our paper (https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-28-21-31932&id=440961) if you are using this dataset.
 
 -   **Lattice size:** Each free-form meta-atom is placed in a square shaped
     lattice. Side length of each lattice ranges from 2.5 µm to 3 µm. Listed in
